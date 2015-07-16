@@ -8,4 +8,4 @@ xmlName(rootNode)
 
 xpathSApply(rootNode,"//name",xmlValue)
 
-
+xpathSApply(rootNode, "//price",xmlValue)
